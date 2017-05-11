@@ -1,5 +1,5 @@
 # Drink
-Reminder to drink more water. built with electron
+Reminder to drink more water. Built with electron
 
 ## Screens
 
